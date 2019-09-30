@@ -1,0 +1,11 @@
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\bin\Debug\netcoreapp2.1\ForConsole5.deps.json
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\bin\Debug\netcoreapp2.1\ForConsole5.runtimeconfig.json
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\bin\Debug\netcoreapp2.1\ForConsole5.runtimeconfig.dev.json
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\bin\Debug\netcoreapp2.1\ForConsole5.dll
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\bin\Debug\netcoreapp2.1\ForConsole5.pdb
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\obj\Debug\netcoreapp2.1\ForConsole5.csprojAssemblyReference.cache
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\obj\Debug\netcoreapp2.1\ForConsole5.csproj.CoreCompileInputs.cache
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\obj\Debug\netcoreapp2.1\ForConsole5.AssemblyInfoInputs.cache
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\obj\Debug\netcoreapp2.1\ForConsole5.AssemblyInfo.cs
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\obj\Debug\netcoreapp2.1\ForConsole5.dll
+D:\лабы\ISM\prakt #3\ISMLoops\ForConsole5\obj\Debug\netcoreapp2.1\ForConsole5.pdb

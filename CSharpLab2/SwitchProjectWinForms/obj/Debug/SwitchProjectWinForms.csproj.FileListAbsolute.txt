@@ -1,0 +1,30 @@
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe.config
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.pdb
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Form1.resources
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Properties.Resources.resources
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.exe
+C:\Users\Professional\Desktop\ISMConditionalStatements1\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.pdb
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe.config
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.pdb
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csprojAssemblyReference.cache
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Form1.resources
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Properties.Resources.resources
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.GenerateResource.cache
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.CoreCompileInputs.cache
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.exe
+d:\лабы\ISM\from oleg\for-anchis\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.pdb
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe.config
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.pdb
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Form1.resources
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Properties.Resources.resources
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.exe
+C:\Users\USER\Desktop\ISM\Prakt3\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.pdb

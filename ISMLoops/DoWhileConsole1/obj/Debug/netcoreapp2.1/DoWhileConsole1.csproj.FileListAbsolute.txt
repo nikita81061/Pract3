@@ -1,0 +1,10 @@
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\bin\Debug\netcoreapp2.1\DoWhileConsole1.deps.json
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\bin\Debug\netcoreapp2.1\DoWhileConsole1.runtimeconfig.json
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\bin\Debug\netcoreapp2.1\DoWhileConsole1.runtimeconfig.dev.json
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\bin\Debug\netcoreapp2.1\DoWhileConsole1.dll
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\bin\Debug\netcoreapp2.1\DoWhileConsole1.pdb
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.csproj.CoreCompileInputs.cache
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.AssemblyInfoInputs.cache
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.AssemblyInfo.cs
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.dll
+D:\лабы\ISM\prakt #3\ISMLoops\DoWhileConsole1\obj\Debug\netcoreapp2.1\DoWhileConsole1.pdb
